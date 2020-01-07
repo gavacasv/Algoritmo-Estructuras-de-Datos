@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1578428002 source:c:\users\algoritmos\desktop\algoritmos\07.01.2020\busqueda\busqueda lineal\main.cpp
+	<iostream>
+	<fstream>
+
